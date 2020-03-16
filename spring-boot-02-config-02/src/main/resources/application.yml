@@ -1,0 +1,17 @@
+server:
+  port: 8080 # 默认配置
+#spring:
+#  profiles:
+#    active: dev # 激活哪个profile，当前激活是 prod 开发环境
+
+---
+server:
+  port: 8083
+spring:
+  profiles: dev # 指定属于哪个环境，dev环境使用
+
+---
+server:
+  port: 8088
+spring:
+  profiles: prod # 指定属于哪个环境，prod环境使用

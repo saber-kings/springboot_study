@@ -1,0 +1,30 @@
+2020-03-14 15:22:46.319  INFO 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on DESKTOP-C4O3IAM with PID 6796 (started by luanz in D:\IdeaProjects\SpringBoot-Start\spring-boot-03-logging)
+2020-03-14 15:22:46.322 DEBUG 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-14 15:22:46.322  INFO 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-03-14 15:22:49.110  INFO 6796 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-14 15:22:49.458  INFO 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 3.968 seconds (JVM running for 5.978)
+2020-03-14 15:22:49.926 DEBUG 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 debug 日志信息
+2020-03-14 15:22:49.927  INFO 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 info 日志信息
+2020-03-14 15:22:49.927  WARN 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 warn 日志信息
+2020-03-14 15:22:49.928 ERROR 6796 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 error 日志信息
+2020-03-14 15:22:49.955  INFO 6796 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-14 15:40:10.293  INFO 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on DESKTOP-C4O3IAM with PID 6476 (started by luanz in D:\IdeaProjects\SpringBoot-Start\spring-boot-03-logging)
+2020-03-14 15:40:10.295 DEBUG 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-14 15:40:10.296  INFO 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-03-14 15:40:12.796  INFO 6476 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-14 15:40:13.126  INFO 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 3.536 seconds (JVM running for 5.498)
+2020-03-14 15:40:13.533 DEBUG 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 debug 日志信息
+2020-03-14 15:40:13.533  INFO 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 info 日志信息
+2020-03-14 15:40:13.533  WARN 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 warn 日志信息
+2020-03-14 15:40:13.533 ERROR 6476 --- [main] .m.s.SpringBoot03LoggingApplicationTests : 这是 error 日志信息
+2020-03-14 15:40:13.555  INFO 6476 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-03-14 15:50:13.808 >>> [main] >>> INFO  >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> Starting SpringBoot03LoggingApplicationTests on DESKTOP-C4O3IAM with PID 9156 (started by luanz in D:\IdeaProjects\SpringBoot-Start\spring-boot-03-logging)
+2020-03-14 15:50:13.810 >>> [main] >>> DEBUG >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-14 15:50:13.811 >>> [main] >>> INFO  >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> No active profile set, falling back to default profiles: default
+2020-03-14 15:50:16.351 >>> [main] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-14 15:50:16.758 >>> [main] >>> INFO  >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> Started SpringBoot03LoggingApplicationTests in 3.825 seconds (JVM running for 5.616)
+2020-03-14 15:50:17.178 >>> [main] >>> DEBUG >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> 这是 debug 日志信息
+2020-03-14 15:50:17.179 >>> [main] >>> INFO  >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> 这是 info 日志信息
+2020-03-14 15:50:17.179 >>> [main] >>> WARN  >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> 这是 warn 日志信息
+2020-03-14 15:50:17.179 >>> [main] >>> ERROR >>> c.m.springboot.SpringBoot03LoggingApplicationTests >>> 这是 error 日志信息
+2020-03-14 15:50:17.203 >>> [SpringContextShutdownHook] >>> INFO  >>> o.s.scheduling.concurrent.ThreadPoolTaskExecutor >>> Shutting down ExecutorService 'applicationTaskExecutor'
